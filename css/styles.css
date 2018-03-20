@@ -1,3 +1,7 @@
 .definition {
   display: none;
 }
+
+body {
+  background-color: lightgray;
+}

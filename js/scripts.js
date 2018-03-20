@@ -1,5 +1,11 @@
+
 $(document).ready(function() {
-  $(".term").click(function() {
-    $(".definition").toggle();
+  $("#js").click(function() {
+    $("#def-js").toggle();
+  });
+
+  $("#operator").click(function() {
+
+    $("#def-operator").toggle();
   });
 });
